@@ -315,32 +315,13 @@ The Lambda execution role requires permissions for:
 
 # 📸 Sample Output
 
-```text
-Image Name:
-tiger.jpg
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8d4b8a8-c413-4e3e-82a8-9cc6cbf3f6c1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e279b39-13ca-44d1-af77-be148ae33f62" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e367159-fec7-499d-9e73-3c11e2cb7f01" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e3afac4-089f-4541-996f-588f7f745afe" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45f1109b-d5a4-4b83-aaf5-daedd26e6b0d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d34a559-188d-4449-8f05-eef7faa9d123" />
 
-Detected Animal:
-Tiger
-
-Confidence:
-99.85%
-
-Other Labels:
-• Wildlife
-• Mammal
-• Nature
-• Big Cat
-
-Uploaded:
-16 July 2026
-
-Animal Count Summary:
-Tiger: 3
-Lion: 2
-Elephant: 5
-Dog: 4
-Cat: 6
-```
 
 ---
 
