@@ -1,4 +1,4 @@
-# 🐾 AI Animal Detection using Amazon Rekognition
+# 🐾 AI Animal Detection using Amazon Rekognition AND DYNAMO DB
 
 ## 📌 Project Overview
 
