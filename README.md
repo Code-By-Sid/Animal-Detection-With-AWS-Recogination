@@ -1,3 +1,4 @@
+http://13.233.142.142:5055/
 # 🐾 AI Animal Detection using Amazon Rekognition AND DYNAMO DB
 
 ## 📌 Project Overview
